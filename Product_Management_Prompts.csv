@@ -1,0 +1,31 @@
+Prompt ID,Prompt Text,Category,Expected Output Format,Intended LLM Use Case
+PM-01,"Act as a Senior Product Manager. Given a list of customer interviews, extract the top 5 recurring pain points and group them by theme.",User Research,List of themes with bullet points,Insight Extraction
+PM-02,"You are a PM at a fintech startup. Based on the product backlog below, prioritize the features using the RICE framework.",Prioritization,Table with RICE scores and priority order,Decision Support
+PM-03,Draft a one-page Product Requirements Document (PRD) for a feature that allows users to schedule recurring payments.,Specifications,"Formatted PRD with sections: Overview, Goals, Requirements, KPIs",Drafting
+PM-04,Analyze the following product analytics dashboard and identify 3 key insights that could guide next sprint planning.,Analytics,Bulleted insights with metric references,Analysis
+PM-05,You are preparing for a stakeholder meeting. Summarize the current roadmap and highlight risks or misalignments.,Strategy,Brief roadmap summary with risk notes,Communication
+PM-06,Act as a PM in a SaaS company. Create user personas based on the following behavioral and demographic data.,User Research,"3 personas in structured format (name, goals, behaviors)",Persona Creation
+PM-07,"Compare our product to two competitors based on features, pricing, and UX. Suggest positioning strategy.",Competitive Analysis,Comparison table + positioning recommendation,Benchmarking
+PM-08,You are leading a discovery workshop. Create a list of probing questions to uncover unmet user needs.,Product Discovery,List of open-ended questions,Ideation
+PM-09,"Using the below market trends and user feedback, generate 3 hypotheses for product-led growth experiments.",Growth,Three testable hypotheses,Experiment Design
+PM-10,"Simulate a weekly sprint planning. Choose tasks from the backlog, assign story points, and justify selection.",Agile Planning,Sprint plan table + justification notes,Simulation
+PM-11,"Write a stakeholder update email summarizing the last release, impact, and upcoming priorities.",Communication,Formatted email draft,Reporting
+PM-12,Translate this customer review dataset into a set of prioritized features and pain points.,Research,Feature list with sentiment tags,Data-to-Insight
+PM-13,You are a PM at an AI startup. Create an ethical risk assessment for the new model deployment feature.,AI Product Management,Table of risks with severity and mitigation,Risk Management
+PM-14,Write a Jira-style ticket for a new 'export to PDF' functionality in the dashboard.,Specifications,"Title, Description, AC, Priority",Ticket Writing
+PM-15,Generate a product OKR (Objective and Key Results) set for Q3 for a mobile payment app.,Strategy,Objective + 3 measurable KRs,Goal Setting
+PM-16,Create a 'How Might We' statement from the following user pain point data.,Discovery,Formatted HMW statement,Reframing
+PM-17,"Given the following usage data, generate a churn prediction hypothesis and suggest follow-up analysis.",Analytics,Hypothesis statement + metric to track,Exploration
+PM-18,You are building a developer platform. Design an onboarding flow optimized for activation.,User Experience,Step-by-step flow with rationales,UX Planning
+PM-19,Write a sample pitch for the new feature to be presented in the internal product council.,Communication,Pitch script (1 paragraph),Buy-in
+PM-20,You are launching in a new market. Create a checklist for internationalization readiness.,Go-to-Market,Checklist with categories,Checklist Generation
+PM-21,Act as a PM for a health app. Write a spec for a habit-streak tracking feature.,Specifications,"User story, ACs, flows",Spec Writing
+PM-22,Prioritize these features using Kano Model analysis based on the feedback summaries below.,Prioritization,Must-Have / Performance / Delighter chart,Framework Use
+PM-23,"Given a failed A/B test result, write a post-mortem report outlining what was learned and next steps.",Experimentation,Post-mortem doc,Reflection
+PM-24,Write a brief competitive teardown comparing UX of 3 ride-hailing apps.,UX Research,Teardown with screenshots and analysis,Benchmarking
+PM-25,"Using NPS and CSAT data below, identify opportunities for improvement and user delight.",User Feedback,Improvement recommendations,Insight Extraction
+PM-26,Create a weekly metrics dashboard template for a B2B SaaS product.,Metrics,Sectioned dashboard with example metrics,Template Creation
+PM-27,You are a PM working with a designer. Write a Figma handoff checklist to ensure smooth collaboration.,Design Collaboration,Checklist,Ops Support
+PM-28,Explain to a non-technical exec how the backend migration will affect user experience short term.,Stakeholder Management,Brief + analogy,Simplified Explanation
+PM-29,Act as a PM for an ML-based product. Define success metrics for your recommendation system.,AI Product Management,List of success metrics with explanation,Metrics Definition
+PM-30,"Given the following list of bugs and issues, write a triage prioritization plan.",Execution,"Table with bug priority, severity, resolution plan",Task Management
